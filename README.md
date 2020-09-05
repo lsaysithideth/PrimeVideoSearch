@@ -1,6 +1,6 @@
 # PrimeVideoSearch
 
-There are so many options today when it comes to shows and TVs to watch.  Sometimes just scrolling through all the titles can be exhausting and, before you know it, you have spent an hour trying to find the next show to binge.  
+There are so many options today when it comes to shows and movies to watch.  Sometimes just scrolling through all the titles can be exhausting and, before you know it, you have spent an hour trying to find the next show to binge.  
 
 This Python code will automate the organization of movie and show data into a nice, neat csv file where you can compare many titles on Amazon Prime Video in an instant.  
 
