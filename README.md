@@ -16,3 +16,5 @@ Make sure the following Python packages are installed.
 •	pandas - will allow us to save data to a csv, text, or excel file
 •	selenium – will allow us to control a webpage using CSS tags
 •	bs4 – will format and parse page source data neatly
+•	matplotlib – creates and exports graphs and visuals
+•	wordcloud – creates word cloud visualizations
