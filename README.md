@@ -4,6 +4,8 @@ There are so many options today when it comes to shows and movies to watch.  Som
 
 This Python code will automate the organization of movie and show data into a nice, neat csv file where you can compare many titles on Amazon Prime Video in an instant.  
 
+I take this project an extra step further by analyzing the different words that come up for each movie or show description based on their ratings into a word cloud!
+
 Code Requirements
 ------------------------
 Separate from Python, you will need the following downloads installed:
