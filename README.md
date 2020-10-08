@@ -1,5 +1,7 @@
 # PrimeVideoSearch
 
+This project was created for feature content on theCodex website.  View the free video tutorial, along with many other tutorials and courses, at: https://thecodex.me/projects/amazon-prime-video-content-scraper-selenium.
+
 There are so many options today when it comes to shows and movies to watch.  Sometimes just scrolling through all the titles can be exhausting and, before you know it, you have spent an hour trying to find the next show to binge.  
 
 This Python code will automate the organization of movie and show data into a nice, neat csv file where you can compare many titles on Amazon Prime Video in an instant.  
