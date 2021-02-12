@@ -1,6 +1,6 @@
 # PrimeVideoSearch
 
-This project was created for feature content on theCodex website.  View the free video tutorial, along with many other tutorials and courses, at: https://thecodex.me/projects/amazon-prime-video-content-scraper-selenium.
+This project was created for feature content on theCodex website.  View the video tutorial, along with many other tutorials and courses, at: https://blog.thecodex.me/how-to-build-a-amazon-prime-video-selenium-scraper/.
 
 There are so many options today when it comes to shows and movies to watch.  Sometimes just scrolling through all the titles can be exhausting and, before you know it, you have spent an hour trying to find the next show to binge.  
 
